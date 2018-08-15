@@ -1,6 +1,6 @@
 {
-    "name": "lean-php/skeleton",
-    "description": "Lean PSR web app",
+    "name": "lean-php/peesar-skeleton",
+    "description": "Lean PSR web app framework",
     "type": "project",
     "license": "MIT",
     "authors": [

@@ -1,0 +1,15 @@
+{
+    "name": "lean-php/skeleton",
+    "description": "Lean PSR web app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Micha Alt",
+            "email": "php@lean-stack.de"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
